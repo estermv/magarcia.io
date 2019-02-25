@@ -42,7 +42,7 @@
     "@babel/core": "^7.2.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.0.0",
-    "babel-preset-gatsby": "^0.1.6",
+    "babel-preset-gatsby": "^0.1.8",
     "eslint": "^5.12.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.3.0",
